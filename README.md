@@ -18,7 +18,7 @@
   > 취업 지원 블로그 서비스
 - [CHECKIN](https://github.com/KEA-5th-Quartz/checkin-backend) - Backend(PM) (2024.12 ~ 2025.02)
   >  Gachon SW Academy - DKTechin 자사 TMS 서비스
-- [GachonOJ](https://github.com/ehs208/GachonOJ-Frontend) - Backend (2024.03 ~ 2024.05)
+- [GachonOJ](https://github.com/chogh824/GachonOJ-Backend) - Backend (2024.03 ~ 2024.05)
   > 가천대학교 온라인 저지 서비스
 <!--
 **chogh824/chogh824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
